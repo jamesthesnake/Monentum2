@@ -9,6 +9,7 @@ def initialize(context):
                       time_rules.market_open(minutes=5))
 
 def handle_data(context, data):  
+    #return the handeld data
     return
 
 def daily_handle_data(context, data):  
